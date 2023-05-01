@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Bowling",
+    "about": "Selection of bowling equipment is tantamount",
+    "website": "https://www.google.com/search?q=bowling&oq=bowling&aqs=chrome..69i57.3812j0j7&sourceid=chrome&ie=UTF-8",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Bowlerbowling.JPG",
+    "cover": "port-kardashev-scale.webp"
+  },
+
+  {
+    "id": 2,
+    "name": "Table Tennis",
+    "about": "Table tennis, also known as ping-pong and whiff-whaff, is a racket sport derived from tennis but distinguished by its playing surface being atop a stationary table, rather than the court on which players stand.",
+    "website": "https://www.google.com/search?q=ping+pong&oq=ping+pong&aqs=chrome..69i57.3461j0j7&sourceid=chrome&ie=UTF-8",
+    "image": "https://www.advancedsciencenews.com/wp-content/uploads/2021/08/lisa-keffer-i0kB5B9J8Ds-unsplash.jpg",
+     "cover": "port-kardashev-scale.webp"
+  },
+
+  {
+    "id": 3,
+    "name": "Football",
+    "about": "football, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team’s goal. Only the goalkeeper is permitted to handle the ball and may do so only within the penalty area surrounding the goal. The team that scores more goals wins.",
+    "website": "https://www.google.com/search?q=what+is+football+about&oq=what+is+football+about&aqs=chrome..69i57.9780j0j7&sourceid=chrome&ie=UTF-8",
+    "image": "https://image.cnbcfm.com/api/v1/image/106991253-1639786378304-GettyImages-1185558312r.jpg?v=1639786403",
+    "cover": "port-bluenight.webp"
+    
+  },  
+
+  {
+    "id": 4,
+    "name": "Soccer",
+    "about": "Association football, more commonly known as football or soccer, is a team sport played between two teams of 11 players each who primarily use their feet to propel a ball around a rectangular field called a pitch",
+    "website": "https://www.google.com/search?q=soccer&oq=soccer&aqs=chrome..69i57.3977j0j7&sourceid=chrome&ie=UTF-8",
+    "image": "https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg",
+    "cover": "port-cogito.webp"
+  },
+
+  {
+    "id": 5,
+    "name": "Baseball",
+    "about": "Baseball is a bat-and-ball sport played between two teams of nine players each, taking turns batting and fielding",
+    "website": "https://www.google.com/search?q=what+is+baseball+about&oq=what+is+baseball+about&aqs=chrome..69i57.17259j0j7&sourceid=chrome&ie=UTF-8",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Baseball_%28crop%29.jpg",
+    "cover": "port-quizz-app.webp"
+  }
+]
